@@ -1,9 +1,5 @@
 # AWS Network Disaster Recovery & Troubleshooting Lab
 
-![AWS](https://img.shields.io/badge/AWS-VPC%20%7C%20EC2%20%7C%20SSM-FF9900?style=flat-square&logo=amazon-aws)
-![Terraform](https://img.shields.io/badge/Terraform-%3E%3D%201.5-7B42BC?style=flat-square&logo=terraform)
-![Focus](https://img.shields.io/badge/Focus-CloudOps%20%7C%20SRE%20%7C%20Troubleshooting-blue?style=flat-square)
-
 Hands-on lab simulating a production network outage in an AWS private subnet (accidental removal of the default `0.0.0.0/0` route to the NAT Gateway). Demonstrates structured root-cause diagnosis using AWS-native observability tools and automated remediation via Infrastructure as Code (Terraform).
 
 **Ideal for:**
